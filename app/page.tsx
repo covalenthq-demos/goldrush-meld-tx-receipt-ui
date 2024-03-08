@@ -89,7 +89,7 @@ export default function IndexPage() {
                   variant="outline"
                   role="combobox"
                   aria-expanded={open}
-                  className="justify-between"
+                  className=" justify-between"
                 >
                   {value
                     ? allChains.find((chain) => chain.name === value)?.label
@@ -97,7 +97,7 @@ export default function IndexPage() {
                   <ChevronsUpDown className="ml-2 h-4 w-4 shrink-0 opacity-50" />
                 </Button>
               </PopoverTrigger>
-              <PopoverContent className="p-0">
+              <PopoverContent className=" p-0">
                 <Command>
                   <CommandInput placeholder="Search framework..." />
                   <CommandEmpty>No chain found.</CommandEmpty>
