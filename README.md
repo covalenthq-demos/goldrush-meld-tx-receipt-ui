@@ -47,6 +47,19 @@ NEXT_PUBLIC_COVALENT_API_KEY = "<YOUR_API_KEY>"
 npm run dev
 ```
 
+## Customization
+The following files were changed from the main GoldRush Transaction Receipt UI repo for styling specific to MELD:
+
+- `./styles/globals.css`
+- `./tailwind.config.ts`
+- `./app/page.tsx`
+- `./app/tx/[chain]/[tx_hash]/page.tsx`
+- `./components/footer.tsx`
+- `./components/site-header.tsx`
+- `./lib/store.tsx`
+- `./lib/svg.tsx`
+
+
 ## Documentation
 
 Visit GoldRush's [component documentation](https://www.covalenthq.com/docs/unified-api/quickstart/goldrush-kit/) or [github](https://github.com/covalenthq/goldrush-kit)  for more information.
