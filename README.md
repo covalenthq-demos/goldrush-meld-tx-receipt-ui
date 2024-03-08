@@ -26,15 +26,14 @@ Powered by <span><a href="https://github.com/covalenthq/goldrush-kit">GoldRush K
 
 ## Ready-to-use customizable template
 
-<a href="https://goldrush-tx-receipt-ui.vercel.app" target="_blank">View live template</a>
+<a href="https://goldrush-meld-tx-receipt-ui.vercel.app" target="_blank">View live template</a>
 
-https://github.com/covalenthq/goldrush-tx-receipt-ui/assets/471422/2cbf6fda-f7f3-4f7f-81fd-65f1d9b71473
 
 ## One-click deploy
 
 Deploy your own Transactions Receipt UI.
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fcovalenthq%2Fgoldrush-tx-receipt-ui&env=NEXT_PUBLIC_COVALENT_API_KEY&envDescription=Visit%20Covalent%20to%20sign%20up%20for%20an%20API%20key&envLink=https%3A%2F%2Fwww.covalenthq.com%2Fplatform%2Fauth%2Fregister%2F)
+[![Deploy with Vercel](https://vercel.com/button)](https://github.com/covalenthq-demos/goldrush-meld-tx-receipt-ui&env=NEXT_PUBLIC_COVALENT_API_KEY&envDescription=Visit%20Covalent%20to%20sign%20up%20for%20an%20API%20key&envLink=https%3A%2F%2Fwww.covalenthq.com%2Fplatform%2Fauth%2Fregister%2F)
 
 ## Local Setup
 
